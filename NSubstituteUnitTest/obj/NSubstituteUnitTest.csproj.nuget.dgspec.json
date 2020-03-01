@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteUnitTest\\NSubstituteUnitTest.csproj": {}
+  },
+  "projects": {
+    "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteExcercise\\NSubstituteExcercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteExcercise\\NSubstituteExcercise.csproj",
+        "projectName": "NSubstituteExcercise",
+        "projectPath": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteExcercise\\NSubstituteExcercise.csproj",
+        "packagesPath": "C:\\Users\\Senthil\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteExcercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Senthil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteUnitTest\\NSubstituteUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteUnitTest\\NSubstituteUnitTest.csproj",
+        "projectName": "NSubstituteUnitTest",
+        "projectPath": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteUnitTest\\NSubstituteUnitTest.csproj",
+        "packagesPath": "C:\\Users\\Senthil\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Senthil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteExcercise\\NSubstituteExcercise.csproj": {
+                "projectPath": "E:\\Learning\\Unit Testing\\UnitTestingPractice\\UnitTestingExcercise\\NSubstituteExcercise\\NSubstituteExcercise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

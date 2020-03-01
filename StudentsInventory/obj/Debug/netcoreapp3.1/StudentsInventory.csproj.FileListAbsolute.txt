@@ -1,0 +1,7 @@
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\bin\Debug\netcoreapp3.1\StudentsInventory.deps.json
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\bin\Debug\netcoreapp3.1\StudentsInventory.dll
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\bin\Debug\netcoreapp3.1\StudentsInventory.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\obj\Debug\netcoreapp3.1\StudentsInventory.AssemblyInfoInputs.cache
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\obj\Debug\netcoreapp3.1\StudentsInventory.AssemblyInfo.cs
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\obj\Debug\netcoreapp3.1\StudentsInventory.dll
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\StudentsInventory\obj\Debug\netcoreapp3.1\StudentsInventory.pdb

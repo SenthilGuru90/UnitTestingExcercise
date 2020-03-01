@@ -1,0 +1,15 @@
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\bin\Debug\netcoreapp3.1\NSubstituteExcercise.deps.json
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\bin\Debug\netcoreapp3.1\NSubstituteExcercise.dll
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\bin\Debug\netcoreapp3.1\NSubstituteExcercise.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.AssemblyInfoInputs.cache
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.AssemblyInfo.cs
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.dll
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\bin\Debug\netcoreapp3.1\NSubstituteExcercise.deps.json
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\bin\Debug\netcoreapp3.1\NSubstituteExcercise.dll
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\bin\Debug\netcoreapp3.1\NSubstituteExcercise.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.csprojAssemblyReference.cache
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.AssemblyInfoInputs.cache
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.AssemblyInfo.cs
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.dll
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\NSubstituteExcercise\obj\Debug\netcoreapp3.1\NSubstituteExcercise.pdb

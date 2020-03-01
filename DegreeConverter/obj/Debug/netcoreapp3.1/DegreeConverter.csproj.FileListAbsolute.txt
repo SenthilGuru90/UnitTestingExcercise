@@ -1,0 +1,16 @@
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.deps.json
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.dll
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.csprojAssemblyReference.cache
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.AssemblyInfoInputs.cache
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.AssemblyInfo.cs
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.dll
+E:\Learning\Unit Testing\UnitTestingPractice\DegreeConverter\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.deps.json
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.dll
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\bin\Debug\netcoreapp3.1\DegreeConverter.pdb
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.csprojAssemblyReference.cache
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.AssemblyInfoInputs.cache
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.AssemblyInfo.cs
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.dll
+E:\Learning\Unit Testing\UnitTestingPractice\UnitTestingExcercise\DegreeConverter\obj\Debug\netcoreapp3.1\DegreeConverter.pdb
